@@ -25,3 +25,5 @@ node_modules/
 # ignore .idea  directory
 .idea/
 .idea/workspace.xml
+
+wp-congig.php
